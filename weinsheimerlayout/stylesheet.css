@@ -1,0 +1,40 @@
+.content{
+  width: 100%;
+  max-width: 900px;
+  margin:0 auto;
+}
+
+#byline {
+font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+h1{
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  border: 3em;
+}
+p{
+  font-family: Georgia, serif;
+  font-size: 13px;
+}
+blockquote{
+  font-weight: 800;
+  font-size: 28px;
+  width: 85%;
+  text-align: center;
+  margin: 1em;
+}
+.tattoo{
+  display: block;
+  width: 100%;
+}
+figcaption{
+  display: block;
+  width: 100%;
+  margin-bottom: 2em;
+}
+h2{
+  font-family: Helvetica, sans-serif;
+  border: 3em;}
