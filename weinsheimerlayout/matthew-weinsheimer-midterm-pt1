@@ -1,0 +1,111 @@
+Jour352/652: Midterm
+Part 1: Q&A
+
+
+Directions:
+
+
+1.  The only thing you should have open on your desktop is this text file in VS Code or ATOM. Do not save it in another format.
+
+
+2. You may only use your brain only. Put away all books, papers, notes, etc. Put away all electronic devices. Close all browsers and all other programs. Do not turn on syntax highlighting.
+
+
+4.  Answer every question.
+
+
+5.  If you don't understand what I'm asking for on a question, please ask me.
+
+
+6. When you are done, please save your document as “your-name-midterm-pt1.txt” and submit on ELMS.  Also, let me know you have completed the first portion of your midterm.
+
+
+****
+
+
+1.  In the sentence below, put in the necessary code that would allow users to click on the word Google and open Google's homepage in a new browser:
+
+
+<href="google.com">Google</href> is the best search engine in the world.
+
+
+
+
+2.  Describe the purpose of a DIV tag.
+
+A div tag is used to create a bin in HTML that you can target with CSS code
+
+
+
+3.  Write out the basic structure of an HTML page, putting the basic tags in the correct position.  (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
+
+
+<Doctype html>
+<head>
+</head>
+<body>
+</body>
+
+
+
+
+
+
+
+4.  There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a link to a stylesheet?
+
+The head
+
+
+5.  In which main "area" or "section" of an HTML page would you put text, images or DIV tags?
+
+The body
+
+
+6.  In the space below, put one DIV tag with a class of graphicbox and a second DIV tag with an ID of name.
+
+
+<div class="graphicbox"></div>
+<div id="name"></div>
+
+
+
+
+
+7.  In the space below, put one DIV tag with an ID of apples and a class of fruit.
+
+<div id="apples" class="fruit">
+
+
+
+8.  In the space below, write the correct CSS code to target a DIV with a class of fruit.  Make the color of the text black (#000000).
+
+
+.fruit{
+    text-color: #000000;
+}
+
+
+
+
+
+9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
+
+<img src="">
+
+
+10.  Why do we use media queries?
+
+To view documents in different forms/on different mediums
+
+
+11. What is the main difference between a serif and a sans-serif font?
+
+Serif fonts include hanging elements on letters while sans-serif fonts do not
+
+
+12. Which of the following is a hexadecimal code?
+#FFCC33
+123,543,242  This is the hexidecimal code
+101010101
+-213
