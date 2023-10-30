@@ -20,6 +20,11 @@
 }
 .navbar{
     color: #F2F8FA;
+    background-color: #F2F8FA;
+}
+.bi{
+margin-left: 1em;
+size: 2em;
 }
 
 .content{
@@ -29,6 +34,10 @@
 }
 .element{
     margin-bottom: 2em;
+    margin-top: 2em;
+}
+.row{
+    margin-bottom: 3em;
     margin-top: 2em;
 }
 p{
@@ -57,5 +66,7 @@ p{
     margin-top: 0.25;
     font-weight: 600;
   }
+
+  
 
 
