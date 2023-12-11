@@ -1,0 +1,81 @@
+h1{
+    font-family: baskerville;
+    margin-top: 1em;
+    text-align: center;
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration-color: #F1D6F4;
+    text-decoration-thickness: 2px;
+
+}
+h2{
+    font-family: baskerville;
+    font-size: x-large;
+    text-align: center;
+    color: #F1D6F4;
+    -webkit-text-stroke-width: 0.5px; 
+            -webkit-text-stroke-color: black; 
+    ;
+}
+p{
+    font-family: Helvetica, Arial, sans-serif;
+    width: 70%;
+    max-width: 700;
+    margin:0 auto;
+    margin-bottom: 1em;
+  }
+  /*start spotify link*/
+  .spotify{
+    margin-top: 2em;
+    margin-bottom: 2em;
+  }
+  /*end spotify link*/
+  #byline{
+    font-family: baskerville;
+    font-size: medium;
+    text-align: center;
+    font-weight: 300;}
+#content{
+        width: 100%;
+        max-width: 900px;
+        margin:0 auto;
+      }
+figcaption{
+    margin-bottom: 2em;
+    margin-left: 8.5em;
+}
+.lower{
+
+    margin-left: 8.5em;
+}
+blockquote{
+    font-family: baskerville;
+    font-weight: 800;
+    font-size: 28px;
+    width: 100%;
+    text-align: center;
+    margin: 1em;
+    color: #F1D6F4;
+    -webkit-text-stroke-width: 1.2px; 
+            -webkit-text-stroke-color: black;}
+h3{
+                font-family: baskerville;
+                font-weight: 800;
+                font-size: 28px;
+                width: 100%;
+                text-align: left;
+                margin-left: 5em;
+                color: #F1D6F4;
+                -webkit-text-stroke-width: 1.2px; 
+                        -webkit-text-stroke-color: black;}
+
+a{font-family: baskerville;
+    font-weight: 1000;
+    font-size: 20px;
+    width: 100%;
+    color: #F1D6F4;
+    -webkit-text-stroke-width: 0.5px; 
+            -webkit-text-stroke-color: black;
+    
+
+}

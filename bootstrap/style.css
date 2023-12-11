@@ -1,0 +1,36 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite);
+
+.btn{
+  font-family: special elite;
+}
+
+.col-md-6{
+  text-align: center;
+}
+.col-md-4{
+  text-align: center;
+}
+.bi {
+  font-size: 3em;
+}
+h1{
+  font-family: special elite;
+}
+h2{
+  font-family: special elite;
+  padding-top: 50px;
+}
+h3{
+  font-family: special elite;
+}
+.row{
+  padding-bottom: 50px;
+}
+@media only screen and (max-width: 500px) {
+  h2{
+    padding-top: 50px;
+  }
+  .btn{
+    background-color: teal;
+  }
+}

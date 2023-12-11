@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Open+Sans:wght@400;600;700;800&family=Special+Elite&display=swap');
+.center{
+    text-align: center;
+    font-size: 90%;
+    color: #F2F8FA;
+    
+  top: 46%;
+  left: 55%;
+  width: 80%;
+  transform: translate(-50%, -50%); 
+}
+
+.headshot{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar{
+    color: #F2F8FA;
+    background-color: #F2F8FA;
+}
+.bi{
+margin-left: 1em;
+size: 2em;
+}
+
+.content{
+    width: 70%;
+    max-width: 700;
+    margin:0 auto;
+}
+.element{
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+.row{
+    margin-bottom: 3em;
+    margin-top: 2em;
+}
+p{
+    margin: 0;
+}
+  h1{
+    font-family: Helvetica;
+    margin-bottom: 0.5em;
+    color: #6E794E;
+    text-decoration: underline;
+    text-decoration-color: #6E794E;
+  }
+  .navbar{
+    font-family: Helvetica, sans-serif;
+  }
+  h2{
+    font-family: Helvetica;
+    margin-bottom: 0.5em;
+    color: black;
+    font-weight: 600;
+    font-size: x-large;
+  }
+  h3{
+    font-size: medium;
+    margin-bottom: 0;
+    margin-top: 0.25;
+    font-weight: 600;
+  }
+
+  
+
+
